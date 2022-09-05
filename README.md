@@ -6,8 +6,8 @@
 - 📫 How to reach me: goooglezbl#gmail.com
 - 🤠 More about me: zhangbinliu.me
 - ⚡ Fun facts: 
-  - 👩‍🎤 Music saves me
   - 🤓 Self-taught software engineer, from EE to CS
+  - 👩‍🎤 Music saves me
   - 😌 Obsessed with all aesthetic designs
   - 🛠 Tool enthusiast / Productivity-driven / Vimer
   - 💪 Life tenet: Work hard; play hard.
