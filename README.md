@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Geo data collection platform
+- 🔭 I’m currently working on building Geo data collection platform using Go
 - 🌱 I’m currently learning and exploring the fascination of algorithms and distributed systems
-- 👯 I’m looking to collaborate on building large-scale systems
+- 👯 I’m looking to collaborate on developing large-scale systems
 - 📫 How to reach me: goooglezbl#gmail.com
 - 🤠 More about me: zhangbinliu.me
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun facts: 
   - 🤓 Self-taught software engineer, from EE to CS
   - 👩‍🎤 Music saves me
@@ -23,7 +24,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 🤠 More about me: zhangbinliu.me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
