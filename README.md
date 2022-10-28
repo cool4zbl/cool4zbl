@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building Geo data collection platform using Go
 - 🌱 I’m currently learning and exploring the fascination of algorithms and distributed systems
 - 👯 I’m looking to collaborate on developing large-scale systems
-- 📫 How to reach me: goooglezbl#gmail.com
+- 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: zhangbinliu.me
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun facts: 
