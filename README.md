@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building Geo data collection platform using Go
+- 🔭 I’m currently working on building a Geo data collection platform using Go
 - 🌱 I’m currently learning and exploring the fascination of algorithms and distributed systems
 - 👯 I’m looking to collaborate on developing large-scale systems
 - 📫 How to reach me: binliu.zhang#gmail.com
