@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building a Geo data collection platform using Go
+- 🔭 I’m currently working on building a platform that can integrate various apps using SingleSPA & Kotlin...
 - 🌱 I’m currently learning and exploring the fascination of algorithms and distributed systems
-- 👯 I’m looking to collaborate on developing large-scale systems
+- 👯 I’m interested in collaborating on developing large-scale systems, diving into the unknown
 - 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: zhangbinliu.me
 - 😄 Pronouns: she/her/hers
@@ -11,7 +11,7 @@
   - 👩‍🎤 Music saves me
   - 😌 Obsessed with all aesthetic designs
   - 🛠 Tool enthusiast / Productivity-driven / Vimer
-  - 💪 Life tenet: Work hard; play hard.
+  - 💪 Motto in life: Work hard; play hard.
 
 <!--
 **cool4zbl/cool4zbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
