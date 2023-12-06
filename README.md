@@ -13,7 +13,7 @@
   - 🛠 Tool enthusiast / Productivity-driven / Vimer
   - 💪 Motto in life: Work hard; play hard.
  
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=cool4zbl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Binliu's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool4zbl&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=cool4zbl&show_icons=true&&theme=buefy&hide_border=true" alt="Binliu's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool4zbl&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
