@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building a platform that can integrate various apps using SingleSPA & Kotlin...
-- 🌱 I’m exploring **[AdeventOfCode 2023](https://adventofcode.com/2023/)**, my first time attending it while learning and doing [in **Kotlin**](https://github.com/cool4zbl/advent-of-code), and becoming a big fan!!
+- 🌱 **NOW**: I’m exploring **[AdeventOfCode 2023](https://adventofcode.com/2023/)**, my first time attending it while learning and doing [in **Kotlin**](https://github.com/cool4zbl/advent-of-code), and becoming a big fan!!
+- 🔭 I’m currently building a platform that integrates various apps using SingleSPA & Kotlin...
 - 👯 I’m interested in collaborating on developing large-scale systems, diving into the unknown
 - 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: [https://zhangbinliu.me](https://zhangbinliu.me/about)
