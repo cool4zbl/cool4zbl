@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 **NOW**: I’m exploring **[AdeventOfCode 2023](https://adventofcode.com/2023/)**, my first time participating it with learning by solving puzzles [in **Kotlin**](https://github.com/cool4zbl/advent-of-code), and becoming a big fan!!
 - 🔭 I’m currently building a platform that integrates various apps using SingleSPA & Kotlin...
 - 👯 I’m interested in collaborating on developing large-scale systems, diving into the unknown
+- 🌱 Last year, I was exploring **[AdeventOfCode 2023](https://adventofcode.com/2023/)**, my first time participating in learning by solving puzzles [in **Kotlin**](https://github.com/cool4zbl/advent-of-code), and becoming a big fan!!
 - 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: [https://zhangbinliu.me](https://zhangbinliu.me/about)
 - 😄 Pronouns: she/her/hers
