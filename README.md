@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently [spare time] building Redis from scratch and [biz] building a platform that integrates various apps using SingleSPA & Kotlin...
-- 👯 I’m interested in collaborating on developing large-scale systems, diving into the unknown
+- 🎄 AdventOfCode 2024 is on! Using Python to [solve puzzles](https://github.com/cool4zbl/advent-of-code-2024) this year, which is really fun!
+- 🔭 Currently [spare time] building Redis from scratch and [biz] building a platform that integrates various apps using SingleSPA & Kotlin...
+- 😌 Obsessed with underlying principles
 - 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: [https://zhangbinliu.me](https://zhangbinliu.me/about)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun facts: 
-  - 🤓 Self-taught software engineer, from EE to CS
   - 👩‍🎤 Music saves me (Rock / LoFi / Alternative / Electronic / ...)
-  - 😌 Obsessed with underlying principles
   - 🛠 Tool enthusiast / Productivity-driven / Vimer
   - 💪 Motto in life: Work hard; play hard.
  
