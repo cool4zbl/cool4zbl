@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎄 AdventOfCode 2024 is on! Using Python to [solve puzzles](https://github.com/cool4zbl/advent-of-code-2024) this year, which is really fun!
+- 🎄 AdventOfCode 2024 is on! I'm using Python to [solve puzzles](https://github.com/cool4zbl/advent-of-code-2024) this year, which is really fun!
 - 🔭 Currently [spare time] building Redis from scratch and [biz] building a platform that integrates various apps using SingleSPA & Kotlin...
 - 😌 Obsessed with underlying principles
 - 📫 How to reach me: binliu.zhang#gmail.com
