@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently [spare time] building Redis from scratch and [biz] building a platform that integrates various apps using SingleSPA & Kotlin...
+- 🔭 Currently [biz] building a platform that integrates various apps using SingleSPA & Kotlin...
 - 😌 Obsessed with underlying principles
 - 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: [https://zhangbinliu.me](https://zhangbinliu.me/about)
