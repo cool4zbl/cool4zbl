@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently [biz] building a platform that integrates various apps using SingleSPA & Kotlin...
+- 🔭 Currently [biz] building a chatbot...
 - 😌 Obsessed with underlying principles
 - 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: [https://zhangbinliu.me](https://zhangbinliu.me/about)
@@ -10,8 +10,8 @@
   - 🛠 Tool enthusiast / Productivity-driven / Vimer
   - 💪 Motto in life: Work hard; play hard.
  
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=cool4zbl&show_icons=true&&theme=buefy&hide_border=true" alt="Binliu's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool4zbl&layout=compact&theme=buefy&hide_border=true&hide=css,html,scilab,handlebars&size_weight=0.6&count_weight=0.4" /> |
-| ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=cool4zbl&show_icons=true&&theme=buefy&hide_border=true" alt="Binliu's github stats" /> |
+| ------------- |
 
 
 ![](https://komarev.com/ghpvc/?username=cool4zbl&style=flat-square)
