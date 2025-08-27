@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Currently [biz] building a chatbot...
-- 😌 Obsessed with underlying principles
+- 😌 Obsessed with *spark*, *sparkle*, and *sparkling*
 - 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: [https://zhangbinliu.me](https://zhangbinliu.me/about)
 - 😄 Pronouns: she/her/hers
