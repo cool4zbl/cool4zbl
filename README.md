@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 💡 Builder / Solver / Collaborator.
 - 🔭 Currently [biz] building a chatbot...
 - 😌 Obsessed with *spark*, *sparkle*, and *sparkling*
 - 📫 How to reach me: binliu.zhang#gmail.com
