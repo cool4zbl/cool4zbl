@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💡 Builder / Solver / Collaborator.
-- 🔭 Currently [biz] building a chatbot...
+- 🔭 Currently [biz] building the orchestration layer for a chatbot...
 - 😌 Obsessed with *spark*, *sparkle*, and *sparkling*
 - 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: [https://zhangbinliu.me](https://zhangbinliu.me/about)
