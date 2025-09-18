@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 - 💡 Builder / Solver / Collaborator.
-- 🔭 Currently [biz] building the orchestration layer for a chatbot...
 - 😌 Obsessed with *spark*, *sparkle*, and *sparkling*
 - 📫 How to reach me: binliu.zhang#gmail.com
 - 🤠 More about me: [https://zhangbinliu.me](https://zhangbinliu.me/about)
-- 😄 Pronouns: she/her/hers
 - ⚡ Fun facts: 
   - 👩‍🎤 Music saves me (Rock / LoFi / Alternative / Electronic / ...)
   - 🛠 Tool enthusiast / Productivity-driven / Vimer
