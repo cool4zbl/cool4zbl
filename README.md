@@ -3,7 +3,7 @@
 - 💡 Builder / Solver / Collaborator.
 - 😌 Obsessed with *spark*, *sparkle*, and *sparkling*
 - 📫 How to reach me: binliu.zhang#gmail.com
-- 🤠 More about me: [https://zhangbinliu.me](https://zhangbinliu.me/about)
+- 🤠 More about me: [https://binliuzhang.com](https://binliuzhang.com)
 - ⚡ Fun facts: 
   - 👩‍🎤 Music saves me (Rock / LoFi / Alternative / Electronic / ...)
   - 🛠 Tool enthusiast / Productivity-driven / Vimer
